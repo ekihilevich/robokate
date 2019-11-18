@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="918210cc-6e62-4968-922f-3db86cfa3912" name="Default Changelist" comment="" />
+    <list default="true" id="918210cc-6e62-4968-922f-3db86cfa3912" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Automation/Summa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Automation/Summa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Summa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Summa.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TmZaVBaNhTuQow8A4uCQFvxyVv" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Conditins">
+  <component name="RunManager" selected="Application.Summa">
     <configuration name="Conditins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditins" />
       <module name="Automation" />
@@ -52,9 +64,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Conditins" />
         <item itemvalue="Application.Summa" />
         <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.Conditins" />
       </list>
     </recent_temporary>
   </component>
@@ -70,5 +82,16 @@
       <updated>1574067294422</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
