@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="918210cc-6e62-4968-922f-3db86cfa3912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Automation/Summa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Automation/Summa.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
@@ -65,8 +64,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Summa" />
-        <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Conditins" />
+        <item itemvalue="Application.Loop" />
       </list>
     </recent_temporary>
   </component>

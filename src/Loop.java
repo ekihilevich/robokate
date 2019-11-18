@@ -13,7 +13,7 @@ public class Loop {
             i++;
         }
 
-        for (int j = 0; j < 5; ++j) {
+        for (int j = 0; j < 5; j++) {
             if (age[j] > 20) {
                 System.out.println(name[j] + " - " + age[j] + " - старпер");
             } else {
@@ -23,7 +23,6 @@ public class Loop {
 
 
         int indexOfMax = 0;
-        int indexOfMin = 0;
         for (int k = 1; k < age.length; k++) {
             if (age[k] > age[indexOfMax]) {
                 indexOfMax = k;
