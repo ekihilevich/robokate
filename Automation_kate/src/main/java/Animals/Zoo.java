@@ -8,23 +8,24 @@ public static void main(String[] args) {
         Dog reks = new Dog ("Multi", 35,60,"ovcharka");
         Dog sharik = new Dog ("Brown", 20,50,"pekines");
         Enot lesnoy = new Enot ("polosatyi", 2, 20, "Zivet v lesy");
-//        Сравнение котов
-    boolean sravn, sravn1;
+        Enot buryi new Enot ();
+//        Sravnenie kotov
+    boolean sravn;
 
     sravn = street.equals(bob);
     System.out.println("Cats the same ? - " + sravn);
-// Выводим первого кота
+// Vyvodim kota
     System.out.println(street.toString());
-//    Движение кота
+//    Cat's move
     System.out.println(bob.getMove());
-//    Сравнение собак
-    sravn1 = reks.equals(sharik);
-    System.out.println("Poroda the same ? - " + sravn1);
-//    Ввыодим собаку
+//    Sravnenie sobak
+    sravn = reks.equals(sharik);
+    System.out.println("Poroda the same ? - " + sravn);
+//    Vyvodim sobaky
     System.out.println(reks.toString());
-// Движение собаки
+// Dog's move
     System.out.println(polkan.getMove());
-//    Создание и движение енота
+//    Create and move enot
     System.out.println(lesnoy.toString());
     System.out.println(lesnoy.getMove());
 }

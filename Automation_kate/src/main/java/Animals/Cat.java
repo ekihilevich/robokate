@@ -4,12 +4,15 @@ import java.util.Objects;
 
 public class Cat {
 
-    int weight, height;
-    String color, type, name;
+    int weight;
+    int height;
+    String color;
+    String type;
+    String name;
 
 
 
-    //для первого кота
+    //first cat
     public Cat(String color, int weight, int height, String type) {
         this.color = color;
         this.weight = weight;
@@ -17,7 +20,7 @@ public class Cat {
         this.type = type;
     }
 
-    //для второго кота
+    //дSecond cat
     public Cat(String name, String color, int weight, int height, String type) {
         this.name = name;
         this.color = color;
@@ -48,12 +51,7 @@ public class Cat {
 
         }
     }
-    //    @Override
-//    public boolean equals (Object obj) {
-//       if (this == obj)
-//           return true;
-//       if (!(obj instanceof Cat))
-//           return false;
+
 
 
 

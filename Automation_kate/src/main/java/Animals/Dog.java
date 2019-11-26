@@ -16,7 +16,7 @@ public class Dog {
         this.poroda = poroda;
     }
 
-    //без параметров
+
     public Dog(String name) {
         this.name = name;
 

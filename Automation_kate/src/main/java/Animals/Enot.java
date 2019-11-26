@@ -2,10 +2,10 @@ package Animals;
 
 public class Enot {
     int weight, height;
-    String color, type, name;
+    String color, type;
 
 
-    //для первого кота
+    //First enot
     public Enot(String color, int weight, int height, String type) {
         this.color = color;
         this.weight = weight;
@@ -13,7 +13,7 @@ public class Enot {
         this.type = type;
     }
 
-    //для второго кота
+    //Second enot
     public Enot() {
 
     }
