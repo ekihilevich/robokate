@@ -3,8 +3,11 @@ package Animals;
 import java.util.Objects;
 
 public class Dog {
-    int weight, height;
-    String color, poroda, name;
+    int weight;
+    int height;
+    String color;
+    String poroda;
+    String name;
 
 
 

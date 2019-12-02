@@ -20,7 +20,7 @@ public class Cat {
         this.type = type;
     }
 
-    //дSecond cat
+    //Second cat
     public Cat(String name, String color, int weight, int height, String type) {
         this.name = name;
         this.color = color;

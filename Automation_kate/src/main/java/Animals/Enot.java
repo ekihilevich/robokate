@@ -1,8 +1,10 @@
 package Animals;
 
 public class Enot {
-    int weight, height;
-    String color, type;
+    int weight;
+    int height;
+    String color;
+    String type;
 
 
     //First enot

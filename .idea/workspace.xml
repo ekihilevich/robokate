@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="918210cc-6e62-4968-922f-3db86cfa3912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Automation_kate/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation_kate/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation_kate/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation_kate/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation_kate/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation_kate/Automation_kate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/IAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/NewEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/Cars/BenzinCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/Cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/Cars/GoHome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Enot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Enot.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
