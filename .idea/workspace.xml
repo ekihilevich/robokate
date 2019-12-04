@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="918210cc-6e62-4968-922f-3db86cfa3912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/IAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/NewEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/Cars/BenzinCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/Cars/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars/src/main/java/Cars/GoHome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Enot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_kate/src/main/java/Animals/Enot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/src/main/java/Cars/BenzinCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/src/main/java/Cars/BenzinCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/src/main/java/Cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/src/main/java/Cars/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/src/main/java/Cars/DieselCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/src/main/java/Cars/DieselCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/src/main/java/Cars/ElectroCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/src/main/java/Cars/ElectroCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/src/main/java/Cars/GoHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/src/main/java/Cars/GoHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/target/classes/Cars/BenzinCar$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/target/classes/Cars/BenzinCar$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/target/classes/Cars/BenzinCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/target/classes/Cars/BenzinCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/target/classes/Cars/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/target/classes/Cars/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/target/classes/Cars/DieselCar$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/target/classes/Cars/DieselCar$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/target/classes/Cars/DieselCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/target/classes/Cars/DieselCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/target/classes/Cars/ElectroCar$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/target/classes/Cars/ElectroCar$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cars/target/classes/Cars/ElectroCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cars/target/classes/Cars/ElectroCar.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,20 +31,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TmZaVBaNhTuQow8A4uCQFvxyVv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Summa">
     <configuration name="Conditins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -75,6 +68,18 @@
         <item itemvalue="Application.Loop" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
