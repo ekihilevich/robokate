@@ -10,7 +10,7 @@ public class ArrayList1 {
     public static void main(String[] args) {
         ArrayList<String> cars = new ArrayList<>();
         LinkedList<String> sosedi = new LinkedList();
-        LOGGER.info("start");
+        LOGGER.debug("start");
         cars.add("Volvo");
         cars.add("BMW");
         cars.add("Ford");
@@ -19,13 +19,16 @@ public class ArrayList1 {
         cars.set(3, "Mazda1");
         cars.remove("Volvo");
         cars.remove(1);
-        LOGGER.info("finish");
+        LOGGER.error("finish");
         System.out.println(cars);
         sosedi.add("Vasya");
         sosedi.add("Masha");
         sosedi.add("Petya");
         sosedi.add("Ivan");
         System.out.println(sosedi.getFirst() + " - First sosed");
+        if (sosedi.contains("Masha")) {
+            LOGGER.debug("Masha zdes");
+        } else  LOGGER.debug("Mashs ushla");
 
 
     }
