@@ -1,0 +1,5 @@
+2019-12-15 21:14:46.730 [main] DEBUG json.Converter - Object created
+2019-12-15 21:14:46.732 [main] DEBUG json.Converter - File is readed
+2019-12-15 21:14:46.735 [main] DEBUG json.Converter - Json converted into object
+2019-12-15 21:14:46.737 [main] DEBUG json.Converter - Object converted to json 
+2019-12-15 21:14:46.738 [main] DEBUG json.Converter - Json was written into file document1 

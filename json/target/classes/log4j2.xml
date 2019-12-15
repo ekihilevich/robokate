@@ -4,12 +4,12 @@
         <Console name="Console" target="SYSTEM_OUT">
             <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
         </Console>
-        <File name="MyFileAppender" fileName="/Users/ekaterinakihilevich/IdeaProjects/Automation/json/testlog1.txt" immediateFlush="false" append="false">
+        <File name="MyFileAppender" fileName="/Users/ekaterinakihilevich/IdeaProjects/Automation/json/testlog.txt" immediateFlush="false" append="false">
             <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
         </File>
     </Appenders>
     <Loggers>
-        <Root level="debug">
+        <Root level="ALL">
             <AppenderRef ref="Console"/>
             <AppenderRef ref="MyFileAppender"/>
         </Root>

@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b82327a-dd94-4253-88c8-106ce53fc8d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Automation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cars/src/main/java/Cars/BenzinCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cars/src/main/java/Cars/BenzinCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cars/src/main/java/Cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cars/src/main/java/Cars/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cars/src/main/java/Cars/DieselCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cars/src/main/java/Cars/DieselCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cars/src/main/java/Cars/ElectroCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cars/src/main/java/Cars/ElectroCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cars/src/main/java/Cars/GoHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cars/src/main/java/Cars/GoHome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cars/target/classes/Cars/BenzinCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cars/target/classes/Cars/BenzinCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cars/target/classes/Cars/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cars/target/classes/Cars/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cars/target/classes/Cars/DieselCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cars/target/classes/Cars/DieselCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cars/target/classes/Cars/ElectroCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cars/target/classes/Cars/ElectroCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cars/target/classes/Cars/GoHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cars/target/classes/Cars/GoHome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Automation/Conditins.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Automation/Loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Automation/Summa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Conditins.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Loop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Summa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,5 +47,11 @@
       <updated>1575548231987</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1576177596625">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="487" y="326" key="com.intellij.ide.util.TipDialog/0.23.1680.974@0.23.1680.974" timestamp="1576177596625" />
   </component>
 </project>

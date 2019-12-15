@@ -2,7 +2,7 @@ package Cars;
 
 public enum Toplivo {
     ELECTRO("Electrichestvo"),
-    BENZIN("Benzin"),
+    BENZIN("Benzin1"),
     DIESEL("Dieselnoe toplivo");
 
     private String toplivoType;
@@ -11,7 +11,7 @@ public enum Toplivo {
 
         this.toplivoType = toplivoType ;
     }
-//    public String getValue() {
-//        return toplivoType;
-//    }
+    public String getValue() {
+        return toplivoType;
+    }
     }

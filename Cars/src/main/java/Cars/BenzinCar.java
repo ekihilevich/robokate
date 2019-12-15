@@ -7,7 +7,7 @@ public class BenzinCar extends Car {
     }
     public void goHome() {
         System.out.println(" ");
-        System.out.println( toplivoType + " Pravilnoe toplivo!");
+        System.out.println( toplivoType.getValue() + " Pravilnoe toplivo!");
 
         if (toplivoUr == false) {
             System.out.println("Net topliva  nikuda ne edem");
