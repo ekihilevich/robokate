@@ -1,0 +1,9 @@
+<dataSource>
+   <productId>3</productId>
+   <quantity>5</quantity>
+   <delta>0.0</delta>
+   <total>0.0</total>
+   <price>0.0</price>
+   <chargedAmount>0.0</chargedAmount>
+   <taxAmount>0.0</taxAmount>
+</dataSource>

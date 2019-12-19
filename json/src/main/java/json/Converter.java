@@ -10,6 +10,7 @@ import org.apache.logging.log4j.Logger;
 
 public class Converter {
     public static Logger LOGGER = LogManager.getLogger();
+
     public static void main(String[] args) throws Exception {
 
         Gson gson = new Gson();
