@@ -1,50 +1,48 @@
 package calculation;
 
 import Calculator.Calculator;
-import org.junit.After;
-import org.junit.Before;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.testng.asserts.SoftAssert;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 public class CalculationJUintTest {
-    @Before
+    @BeforeEach
     public void initTest() {
         System.out.println("New test started");
     }
-        @After
-        public void afterTest () {
+        @AfterEach
+        public void afterTest() {
             System.out.println("Test finished");
         }
 
             @Test
-            void testGetsum () {
+            void testGetsum() {
               assertEquals(Calculator.getsum(7,7), 14);
             }
 
             @Test
-            void TestGetdiff () {
+            void TestGetdiff() {
                 assertEquals(Calculator.getdiff(25,1), 24);
             }
 
             @Test
-            void TestGetmult () {
+            void TestGetmult() {
                 assertEquals(Calculator.getmult(5,2), 10);
             }
 
             @Test
-            void TestGetdiv () {
+            void TestGetdiv() {
                 assertEquals(Calculator.getdiv(10,2), 5);
             }
 
             @Test
-            void TestGetsqrt () {
+            void TestGetsqrt() {
                 assertEquals(Calculator.getsqrt(16), 4);
             }
 
             @Test
-            void TestGetpow () {
+            void TestGetpow() {
                 assertEquals(Calculator.getpow(6,2), 36);
             }
         }
