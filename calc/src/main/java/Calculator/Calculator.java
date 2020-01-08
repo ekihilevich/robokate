@@ -3,8 +3,6 @@ import static java.lang.Math.pow;
 import static java.lang.Math.sqrt;
 
 public class Calculator {
-    public static void main(String[] args) {
-    }
 
         public static int getsum(int num1, int num2){
             return num1 + num2;
