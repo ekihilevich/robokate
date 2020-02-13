@@ -1,0 +1,10 @@
+pageobject/page/CatalogPage.class
+pageobject/base/BasePage.class
+pageobject/page/HomePage.class
+pageobject/service/NavigateToService.class
+listener/TestListener.class
+pageobject/page/ComparePage.class
+pageobject/page/CartPage.class
+pageobject/component/Header.class
+pageobject/service/MaxCompareService.class
+webdriver/WebDriverService.class

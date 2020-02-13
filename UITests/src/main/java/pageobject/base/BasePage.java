@@ -6,7 +6,7 @@ import pageobject.page.HomePage;
 import webdriver.WebDriverService;
 
 public class BasePage {
-    protected Header header;
+    public Header header;
     protected WebDriver driver;
 
     public BasePage() {

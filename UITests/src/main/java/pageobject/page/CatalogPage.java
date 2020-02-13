@@ -2,7 +2,6 @@ package pageobject.page;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import pageobject.base.BasePage;
@@ -21,9 +20,9 @@ public class CatalogPage extends BasePage {
     private static final By ALERT_BY = By.xpath("//p[@class='fancybox-error']");
 
 
-    public void addToCompare(int i) {
+    public void addToCompare() {
         List<WebElement> toCompare = driver.findElements(ADD_TO_COMPARE_BY);
-        toCompare.get(i).click();
+        toCompare.get(0).click();
     }
 
     public void waitAddToCompare(int i) {

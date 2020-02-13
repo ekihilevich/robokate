@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49b6e1d1-c734-4b70-8364-5b2ae16c087d" name="Default Changelist" comment="" />
+    <list default="true" id="49b6e1d1-c734-4b70-8364-5b2ae16c087d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../UITests/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UITests/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/src/main/java/pageobject/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UITests/src/main/java/pageobject/base/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/src/main/java/pageobject/page/CatalogPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UITests/src/main/java/pageobject/page/CatalogPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/src/test/java/test/pageobjecttest/AddToCompareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UITests/src/test/java/test/pageobjecttest/AddToCompareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/target/classes/pageobject/base/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UITests/target/classes/pageobject/base/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/target/classes/pageobject/component/Header.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UITests/target/classes/pageobject/component/Header.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/target/classes/pageobject/page/CartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UITests/target/classes/pageobject/page/CartPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/target/classes/pageobject/page/CatalogPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UITests/target/classes/pageobject/page/CatalogPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/target/classes/pageobject/page/ComparePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UITests/target/classes/pageobject/page/ComparePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/target/classes/pageobject/page/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UITests/target/classes/pageobject/page/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/target/classes/webdriver/WebDriverService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UITests/target/classes/webdriver/WebDriverService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/target/test-classes/test/AddToCardTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UITests/target/test-classes/test/pageobjecttest/AddToWishListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apitest/PostOrganizationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apitest/PostOrganizationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/apitest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/apitest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/apitest/PostOrganizationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/apitest/PostOrganizationTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +61,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.GetOrganizationTest">
+  <component name="RunManager" selected="TestNG.PostOrganizationTest$Salesforce">
     <configuration name="GetOrganizationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="apitest" />
       <extension name="coverage">
@@ -59,7 +79,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatchOrganizationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PostOrganizationTest$Salesforce" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="apitest" />
       <extension name="coverage">
         <pattern>
@@ -68,42 +88,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="apitest" />
-      <option name="MAIN_CLASS_NAME" value="apitest.PatchOrganizationTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PatchOrganizationTest.PatchOrganizationTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="apitest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="apitest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="apitest" />
-      <option name="MAIN_CLASS_NAME" value="apitest.PatchOrganizationTest" />
-      <option name="METHOD_NAME" value="PatchOrganizationTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PostIntegrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="apitest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="apitest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="apitest" />
-      <option name="MAIN_CLASS_NAME" value="apitest.PostIntegrationTest" />
+      <option name="MAIN_CLASS_NAME" value="apitest.PostOrganizationTest$Salesforce" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -128,13 +113,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Salesforce" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="apitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apitest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apitest" />
+      <option name="MAIN_CLASS_NAME" value="apitest.Salesforce" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Salesforce.salesforce" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="apitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apitest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apitest" />
+      <option name="MAIN_CLASS_NAME" value="apitest.Salesforce" />
+      <option name="METHOD_NAME" value="salesforce" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PostOrganizationTest$Salesforce" />
+        <item itemvalue="TestNG.Salesforce" />
+        <item itemvalue="TestNG.Salesforce.salesforce" />
         <item itemvalue="TestNG.GetOrganizationTest" />
         <item itemvalue="TestNG.PostOrganizationTest" />
-        <item itemvalue="TestNG.PostIntegrationTest" />
-        <item itemvalue="TestNG.PatchOrganizationTest" />
-        <item itemvalue="TestNG.PatchOrganizationTest.PatchOrganizationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +202,10 @@
       <workItem from="1580461842918" duration="3316000" />
       <workItem from="1580549571258" duration="866000" />
       <workItem from="1580551486363" duration="37000" />
+      <workItem from="1581446823933" duration="407000" />
+      <workItem from="1581449205376" duration="3002000" />
+      <workItem from="1581492212280" duration="800000" />
+      <workItem from="1581578739669" duration="722000" />
     </task>
     <servers />
   </component>
@@ -199,6 +223,10 @@
     <state x="1161" y="258" key="#com.intellij.ide.util.MemberChooser/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1580475686576" />
     <state x="1161" y="258" key="#com.intellij.ide.util.MemberChooser/0.23.1680.974@0.23.1680.974" timestamp="1580550068450" />
     <state x="1161" y="258" key="#com.intellij.ide.util.MemberChooser/0.23.1680.976@0.23.1680.976" timestamp="1580032402929" />
+    <state x="610" y="375" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581446903713">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="610" y="375" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.974@0.23.1680.974" timestamp="1581446903713" />
     <state x="636" y="240" key="#xdebugger.evaluate" timestamp="1580482582810">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
@@ -207,67 +235,71 @@
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="612" y="374" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.974@0.23.1680.974" timestamp="1579430778241" />
-    <state width="1604" height="289" key="GridCell.Tab.0.bottom" timestamp="1580550734337">
-      <screen x="0" y="23" width="1680" height="974" />
+    <state width="1514" height="289" key="GridCell.Tab.0.bottom" timestamp="1581580633428">
+      <screen x="0" y="23" width="1680" height="977" />
     </state>
-    <state width="1514" height="231" key="GridCell.Tab.0.bottom/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1580482729038" />
-    <state width="1604" height="289" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1580550734337" />
+    <state width="1514" height="289" key="GridCell.Tab.0.bottom/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1581503796473" />
+    <state width="1514" height="289" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1581451566882" />
     <state width="1514" height="289" key="GridCell.Tab.0.bottom/0.23.1680.975/-2560.-367.2560.1417@0.23.1680.975" timestamp="1580201965713" />
     <state width="1514" height="231" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1580050824144" />
+    <state width="1514" height="289" key="GridCell.Tab.0.bottom/0.23.1680.977/-2560.-367.2560.1417@0.23.1680.977" timestamp="1581580633428" />
     <state width="1514" height="231" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1579950203926" />
-    <state width="1604" height="289" key="GridCell.Tab.0.center" timestamp="1580550734337">
-      <screen x="0" y="23" width="1680" height="974" />
+    <state width="1514" height="289" key="GridCell.Tab.0.center" timestamp="1581580633428">
+      <screen x="0" y="23" width="1680" height="977" />
     </state>
-    <state width="1514" height="231" key="GridCell.Tab.0.center/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1580482729037" />
-    <state width="1604" height="289" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1580550734337" />
+    <state width="1514" height="289" key="GridCell.Tab.0.center/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1581503796472" />
+    <state width="1514" height="289" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1581451566881" />
     <state width="1514" height="289" key="GridCell.Tab.0.center/0.23.1680.975/-2560.-367.2560.1417@0.23.1680.975" timestamp="1580201965713" />
     <state width="1514" height="231" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1580050824143" />
+    <state width="1514" height="289" key="GridCell.Tab.0.center/0.23.1680.977/-2560.-367.2560.1417@0.23.1680.977" timestamp="1581580633428" />
     <state width="1514" height="231" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1579950203925" />
-    <state width="1604" height="289" key="GridCell.Tab.0.left" timestamp="1580550734336">
-      <screen x="0" y="23" width="1680" height="974" />
+    <state width="1514" height="289" key="GridCell.Tab.0.left" timestamp="1581580633427">
+      <screen x="0" y="23" width="1680" height="977" />
     </state>
-    <state width="1514" height="231" key="GridCell.Tab.0.left/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1580482729037" />
-    <state width="1604" height="289" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1580550734336" />
+    <state width="1514" height="289" key="GridCell.Tab.0.left/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1581503796471" />
+    <state width="1514" height="289" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1581451566881" />
     <state width="1514" height="289" key="GridCell.Tab.0.left/0.23.1680.975/-2560.-367.2560.1417@0.23.1680.975" timestamp="1580201965712" />
     <state width="1514" height="231" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1580050824142" />
+    <state width="1514" height="289" key="GridCell.Tab.0.left/0.23.1680.977/-2560.-367.2560.1417@0.23.1680.977" timestamp="1581580633427" />
     <state width="1514" height="231" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1579950203924" />
-    <state width="1604" height="289" key="GridCell.Tab.0.right" timestamp="1580550734337">
-      <screen x="0" y="23" width="1680" height="974" />
+    <state width="1514" height="289" key="GridCell.Tab.0.right" timestamp="1581580633428">
+      <screen x="0" y="23" width="1680" height="977" />
     </state>
-    <state width="1514" height="231" key="GridCell.Tab.0.right/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1580482729038" />
-    <state width="1604" height="289" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1580550734337" />
+    <state width="1514" height="289" key="GridCell.Tab.0.right/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1581503796472" />
+    <state width="1514" height="289" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1581451566882" />
     <state width="1514" height="289" key="GridCell.Tab.0.right/0.23.1680.975/-2560.-367.2560.1417@0.23.1680.975" timestamp="1580201965713" />
     <state width="1514" height="231" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1580050824143" />
+    <state width="1514" height="289" key="GridCell.Tab.0.right/0.23.1680.977/-2560.-367.2560.1417@0.23.1680.977" timestamp="1581580633428" />
     <state width="1514" height="231" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1579950203925" />
-    <state width="1514" height="231" key="GridCell.Tab.1.bottom" timestamp="1580482729039">
+    <state width="1514" height="231" key="GridCell.Tab.1.bottom" timestamp="1581490326540">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
-    <state width="1514" height="231" key="GridCell.Tab.1.bottom/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1580482729039" />
-    <state width="1514" height="231" key="GridCell.Tab.1.bottom/0.23.1680.974@0.23.1680.974" timestamp="1580155221959" />
+    <state width="1514" height="231" key="GridCell.Tab.1.bottom/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1581490326540" />
+    <state width="1514" height="231" key="GridCell.Tab.1.bottom/0.23.1680.974@0.23.1680.974" timestamp="1581451432956" />
     <state width="1514" height="304" key="GridCell.Tab.1.bottom/0.23.1680.975/-2560.-367.2560.1417@0.23.1680.975" timestamp="1578992055658" />
     <state width="1514" height="231" key="GridCell.Tab.1.bottom/0.23.1680.975@0.23.1680.975" timestamp="1580050824145" />
     <state width="1514" height="231" key="GridCell.Tab.1.bottom/0.23.1680.977@0.23.1680.977" timestamp="1579950203927" />
-    <state width="1514" height="231" key="GridCell.Tab.1.center" timestamp="1580482729038">
+    <state width="1514" height="231" key="GridCell.Tab.1.center" timestamp="1581490326539">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
-    <state width="1514" height="231" key="GridCell.Tab.1.center/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1580482729038" />
-    <state width="1514" height="231" key="GridCell.Tab.1.center/0.23.1680.974@0.23.1680.974" timestamp="1580155221959" />
+    <state width="1514" height="231" key="GridCell.Tab.1.center/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1581490326539" />
+    <state width="1514" height="231" key="GridCell.Tab.1.center/0.23.1680.974@0.23.1680.974" timestamp="1581451432955" />
     <state width="1514" height="304" key="GridCell.Tab.1.center/0.23.1680.975/-2560.-367.2560.1417@0.23.1680.975" timestamp="1578992055658" />
     <state width="1514" height="231" key="GridCell.Tab.1.center/0.23.1680.975@0.23.1680.975" timestamp="1580050824144" />
     <state width="1514" height="231" key="GridCell.Tab.1.center/0.23.1680.977@0.23.1680.977" timestamp="1579950203926" />
-    <state width="1514" height="231" key="GridCell.Tab.1.left" timestamp="1580482729038">
+    <state width="1514" height="231" key="GridCell.Tab.1.left" timestamp="1581490326539">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
-    <state width="1514" height="231" key="GridCell.Tab.1.left/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1580482729038" />
-    <state width="1514" height="231" key="GridCell.Tab.1.left/0.23.1680.974@0.23.1680.974" timestamp="1580155221959" />
+    <state width="1514" height="231" key="GridCell.Tab.1.left/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1581490326539" />
+    <state width="1514" height="231" key="GridCell.Tab.1.left/0.23.1680.974@0.23.1680.974" timestamp="1581451432955" />
     <state width="1514" height="304" key="GridCell.Tab.1.left/0.23.1680.975/-2560.-367.2560.1417@0.23.1680.975" timestamp="1578992055657" />
     <state width="1514" height="231" key="GridCell.Tab.1.left/0.23.1680.975@0.23.1680.975" timestamp="1580050824144" />
     <state width="1514" height="231" key="GridCell.Tab.1.left/0.23.1680.977@0.23.1680.977" timestamp="1579950203926" />
-    <state width="1514" height="231" key="GridCell.Tab.1.right" timestamp="1580482729039">
+    <state width="1514" height="231" key="GridCell.Tab.1.right" timestamp="1581490326540">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
-    <state width="1514" height="231" key="GridCell.Tab.1.right/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1580482729039" />
-    <state width="1514" height="231" key="GridCell.Tab.1.right/0.23.1680.974@0.23.1680.974" timestamp="1580155221959" />
+    <state width="1514" height="231" key="GridCell.Tab.1.right/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1581490326540" />
+    <state width="1514" height="231" key="GridCell.Tab.1.right/0.23.1680.974@0.23.1680.974" timestamp="1581451432955" />
     <state width="1514" height="304" key="GridCell.Tab.1.right/0.23.1680.975/-2560.-367.2560.1417@0.23.1680.975" timestamp="1578992055658" />
     <state width="1514" height="231" key="GridCell.Tab.1.right/0.23.1680.975@0.23.1680.975" timestamp="1580050824144" />
     <state width="1514" height="231" key="GridCell.Tab.1.right/0.23.1680.977@0.23.1680.977" timestamp="1579950203926" />
@@ -275,19 +307,19 @@
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="394" y="174" key="Maven.ArtifactSearchDialog/0.23.1680.974@0.23.1680.974" timestamp="1578739259812" />
-    <state x="420" y="155" key="SettingsEditor" timestamp="1579269775729">
+    <state x="420" y="155" key="SettingsEditor" timestamp="1581449647058">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="420" y="155" key="SettingsEditor/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1579269775729" />
-    <state x="420" y="155" key="SettingsEditor/0.23.1680.974@0.23.1680.974" timestamp="1578844053656" />
+    <state x="420" y="155" key="SettingsEditor/0.23.1680.974@0.23.1680.974" timestamp="1581449647058" />
     <state width="778" height="462" key="XDebugger.FullValuePopup" timestamp="1578995201512">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state width="778" height="462" key="XDebugger.FullValuePopup/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1578995201512" />
-    <state x="533" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580549574139">
+    <state x="533" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581578739478">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
-    <state x="533" y="345" key="com.intellij.ide.util.TipDialog/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1579505459113" />
+    <state x="533" y="345" key="com.intellij.ide.util.TipDialog/0.23.1680.974/-2560.-367.2560.1417@0.23.1680.974" timestamp="1581578739478" />
     <state x="533" y="345" key="com.intellij.ide.util.TipDialog/0.23.1680.974@0.23.1680.974" timestamp="1580549574139" />
     <state x="509" y="236" width="670" height="676" key="search.everywhere.popup" timestamp="1580032335075">
       <screen x="0" y="23" width="1680" height="976" />

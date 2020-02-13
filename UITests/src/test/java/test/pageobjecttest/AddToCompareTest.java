@@ -1,17 +1,25 @@
 package test.pageobjecttest;
 
+import io.qameta.allure.*;
 import org.testng.Assert;
+import listener.TestListener;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
-import pageobject.component.Header;
-import pageobject.page.CatalogPage;
+import pageobject.service.MaxCompareService;
+import pageobject.service.NavigateToService;
 
 import java.util.concurrent.TimeUnit;
 
 import static webdriver.WebDriverService.getDriver;
 
+@Listeners({TestListener.class})
+@Epic("Compare")
 public class AddToCompareTest {
+    MaxCompareService compare = new MaxCompareService();
+    NavigateToService navigate = new NavigateToService();
+
 
     @BeforeMethod
     public void setUp() {
@@ -27,19 +35,12 @@ public class AddToCompareTest {
      * 4. Get error message*/
 
     @Test
+    @Description("Adding max elements to compare")
+    @Step("Open catalog page")
+    @Severity(SeverityLevel.CRITICAL)
     public void addToWishListTest() {
-        CatalogPage catalogPage = new Header().clickWomen();
-        catalogPage.waitListView();
-        catalogPage.listView();
-        catalogPage.addToCompare(2);
-        catalogPage.waitAddToCompare(1);
-        catalogPage.addToCompare(3);
-        catalogPage.waitAddToCompare(2);
-        catalogPage.addToCompare(4);
-        catalogPage.waitAddToCompare(3);
-        catalogPage.addToCompare(0);
-        catalogPage.waitAlertText();
-        Assert.assertEquals("You cannot add more than 3 product(s) to the product comparison", catalogPage.getAlertText());
+        navigate.toCatalogPage();
+        Assert.assertEquals("You cannot add more than 3 product(s) to the product comparison", compare.addToCompareMaxError());
     }
 
     @AfterMethod
