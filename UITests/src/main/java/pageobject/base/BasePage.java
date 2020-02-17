@@ -10,7 +10,7 @@ public class BasePage {
     protected WebDriver driver;
 
     public BasePage() {
-        driver = WebDriverService.getDriver();
+//        driver = WebDriverService.getDriver();
         header = new Header();
     }
 

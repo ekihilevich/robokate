@@ -9,9 +9,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import pageobject.service.MaxCompareService;
 import pageobject.service.NavigateToService;
-
 import java.util.concurrent.TimeUnit;
-
 import static webdriver.WebDriverService.getDriver;
 
 @Listeners({TestListener.class})
